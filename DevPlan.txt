@@ -1,0 +1,47 @@
+
+project start date:(17-06-2024)
+
+1)Win screen:
+    1)create a background (9-8-2024)
+    2)home button ,back button (9-8-2024)
+    3)score (9-8-2024)
+    
+    status:Completed (9-8-2024)
+
+2)bg music:
+    1)find a good bgm (15-8-2024)  
+    2)run it except during game time (15-8-2024)  
+
+    status:Completed (15-8-2024)                 
+
+3)special ability:
+    1)create a special effect which destroys every enemy space ship (16-08-2024)
+    2)create a ability loading ui (16-08-2024)
+
+    status:Completed 16-08-2024
+
+4)Adding money system:
+    1)create a variable for money (17-08-2024)
+    2)store it in the jsonFile (17-08-2024)
+    3)Show the money earned after every match (18-08-2024)
+    4)create a star system  (18-08-2024)
+
+
+    status:Completed (18-08-2024)
+
+5)Create ui for loosing screen:
+    1)create a bg   (14-09-2024)
+    2)display score,money earnt, (14-09-2024)
+    3)home button (14-09-2024)
+
+    status:Completed (14-09-2024)
+    
+6)Create a Ui for shopScreen:
+    1)add the navigation from home screen to shop screen(15-09-2024)
+    2)add ui for shop screen    (15-09-2024)
+    3)must display health,damage,owning status  (15-09-2024)
+    4)if not owned display a locked symbol and money required to buy it (21-09-2024)
+    5)Display us button if owned or display buy button (21-09-2024)
+    6)display the money left (21-09-2024)
+
+    status: Yet to start
